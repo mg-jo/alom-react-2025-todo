@@ -1,4 +1,14 @@
-## 아롬 리액트팀 7강 투두리스트
+# To-Do List (ALOM React, Lecture 7)
 
-- 노마드코더 투두리스트 리액트 버전업
-- npm i && npm run start
+A React to-do list based on the Nomad Coders course. You can add and delete to-dos, and they are saved in the browser's localStorage.
+
+## Run
+
+Requires Node.js
+
+```
+npm install
+npm start
+```
+
+Then open http://localhost:3000/example
